@@ -1,0 +1,8 @@
+Snake Game Algorithm:
+1.Start.
+2.Create snake game window
+3.Create snake game head
+4.Create function and operate the snake head(with time distance)
+5.Create snake food and eat this food
+6.Create snake body
+7.Create border collision
